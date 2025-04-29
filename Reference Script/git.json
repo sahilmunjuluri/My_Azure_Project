@@ -48,5 +48,6 @@
         "p_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Territories.csv",
         "p_sink_folder" : "AdventureWorks_Territories",
         "p_sink_file" : "AdventureWorks_Territories.csv"
+
     }
 ]
